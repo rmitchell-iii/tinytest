@@ -1,2 +1,2 @@
 # tinytest
-Tiny unit test framework for C
+A tiny unit test framework for C
